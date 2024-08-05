@@ -252,20 +252,20 @@
   if($('#googleMap').length){
       var initialize = function() {
         var mapOptions = {
-            zoom: 15,
+            zoom: 19,
             scrollwheel: false,
-            center: new google.maps.LatLng(-37.81618, 144.95692)
-        };
-
+            center: new google.maps.LatLng(-12.065634310753959, -77.05300864152893)
+        };        
         var map = new google.maps.Map(document.getElementById('googleMap'),
             mapOptions);
 
         var marker = new google.maps.Marker({
             position: map.getCenter(),
-            animation:google.maps.Animation.BOUNCE,
-            icon: 'img/map-marker.png',
+            //animation:google.maps.Animation.BOUNCE,
+            //icon: 'img/map-marker.png',
             map: map
         });
+        //marker.setTitle("SISTEMAS Y FLUIDOS S.A.C.");
 
       }
     google.maps.event.addDomListener(window, 'load', initialize);
