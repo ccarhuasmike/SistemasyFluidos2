@@ -667,7 +667,7 @@
 	.service-area .row > div .service-box {
 
 		padding: 50px 20px;
-
+        height: auto;
 	}
 
 	.service-area .row > div .service-box .service-box-top a {
