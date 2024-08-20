@@ -1910,6 +1910,32 @@ ul {
   background: #E9782F;
   height: 350px;
 }
+
+.service-area .row > div .service-box-bombeo-manejo-fluidos {
+  position: relative;
+  padding: 100px 50px;
+  background: #004A92;
+  height: 350px;
+  color: white;
+}
+
+.service-area .row > div .service-box-alarma-contra-incendio {
+  position: relative;
+  padding: 100px 50px;
+  background: #E4E4E4;
+  height: 350px;
+  color: #787575;
+}
+
+.service-area .row > div .service-box-proteccion-contra-incendio {
+  position: relative;
+  padding: 100px 50px;
+  background: #E9782F;
+  height: 350px;
+  color: white;
+}
+
+
 .service-area .row > div .service-box .service-box-top {
   margin-bottom: 17px;
   overflow: hidden;
