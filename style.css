@@ -955,7 +955,7 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .main-header-area .logo-area {
-  margin-top: 6px;
+  margin-top: 16px;
 }
 .main-header-area .main-menu-area nav ul {
   text-align: center;
