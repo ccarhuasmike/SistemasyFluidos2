@@ -4651,6 +4651,19 @@ ul {
   margin-right: 20px;
   float: left;
 }
+.page-services-details-content .page-project-details-bottom ul li {
+  margin-bottom: 5px;
+}
+
+.page-services-details-content .page-project-details-bottom ul {
+  margin: 30px 0 65px 0;
+}
+.page-services-details-content .page-project-details-bottom ul li i:before {
+  color: #E9782F;
+  font-size: 24px;
+  margin-right: 20px;
+  float: left;
+}
 /*====================================
 11. Shop Page Area
 ======================================*/
