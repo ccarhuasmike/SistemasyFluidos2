@@ -43,6 +43,7 @@
 	.slider-area .slider-3 h1 {
 
 		margin-bottom: 0;
+		font-size: 10px !important;
 
 	}
 
@@ -1818,7 +1819,7 @@
 
 	.slider-area .slider-1 h1 {
 
-		font-size: 22px;
+		font-size: 10px;
 
 	}
 
@@ -1854,7 +1855,7 @@
 
 	.slider-area .slider-2 h1 {
 
-		font-size: 36px;
+		font-size: 10px;
 
 		display: inherit;
 
@@ -1901,7 +1902,7 @@
 	.preview-2 .slider-1 p {
 
 		margin-bottom: 20px;
-
+		font-size: 14px;
 		letter-spacing: 0;
 
 	}
@@ -2100,7 +2101,8 @@
 
 	.about-4-area .about-4-left .about-4-tab-area ul li a {
 
-   	 	width: 173px;
+		width: 139px;
+        font-size: 13px;
 
 	}
 
@@ -2108,7 +2110,7 @@
 
 /* Custom, iPhone Retina */ 
 
-@media only screen and (max-width : 320px) {
+@media only screen and  (min-width: 299px) and (max-width : 320px) {
 
 	h2 {
 
@@ -2154,7 +2156,7 @@
 
 	.about-4-area .about-4-left .about-4-tab-area ul li a {
 
-    	width: 96px;
+    	width: 129px;
 
 	}
 
@@ -2191,5 +2193,18 @@
 		padding-bottom: 30px;
 
 	}
+
+}
+
+@media only screen and (min-width: 200px) and (max-width: 298px) {
+	
+
+	.about-4-area .about-4-left .about-4-tab-area ul li a {
+
+    	width: 112px;
+		font-size: 12px;
+
+	}
+	
 
 }
