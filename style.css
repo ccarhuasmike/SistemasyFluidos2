@@ -955,7 +955,7 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .main-header-area .logo-area {
-  margin-top: 16px;
+  margin-top: 5px;
 }
 .main-header-area .main-menu-area nav ul {
   text-align: center;
@@ -1391,10 +1391,10 @@ ul {
   border-bottom: 2px solid #E9782F;
 }
 .stick .logo-area {
-  margin-top: 12px;
+  margin-top: 5px;
 }
 .stick .main-menu-area nav ul li {
-  padding: 20px 25px;
+  padding: 32px 25px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
