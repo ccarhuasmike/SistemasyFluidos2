@@ -530,7 +530,7 @@ ul {
 }
 .section-title-area h2.section-title {
   margin-bottom: 24px;
-  color: #222222;
+  color: #004A92;
 }
 .section-title-area .title-bottom-icon {
   width: 235px;
@@ -733,7 +733,7 @@ ul {
 .header-bennar-area {
   padding: 90px 0;
   position: relative;
-  background: url(img/header-banner.jpg);
+  background: url(img/header-banner2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -779,7 +779,7 @@ ul {
 1.7 Contact Banner Area styles  
 ---------------------------------------*/
 .contact-banner-area {
-  background: url(img/contact-background.jpg);
+  background: url(img/contactanos-equipo.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -2288,7 +2288,7 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .page-services-1-project-activation-area {
-  background: url(img/contact-background.jpg);
+  background: url(img/contactanos-equipo.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2899,7 +2899,7 @@ ul {
   margin-bottom: 25px;
   padding-bottom: 20px;
   position: relative;
-  color: #222222;
+  color: #004A92;
 }
 .page-about-us-area .page-about-us-left h2:after {
   content: "";
@@ -2931,7 +2931,7 @@ ul {
 }
 .page-about-us-details-area {
   text-align: center;
-  background: url(img/about/page-about-us-about-background.jpg);
+  background: url(img/about/degradado-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -5788,7 +5788,7 @@ ul {
 }
 .sidebar .categories-box ul li a {
   color: #646464;
-  -webkit-transition: all 0.3s ease-in-out;
+  -webkit-transi                                                                                                                                                                                                                                        tion: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
