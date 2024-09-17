@@ -6333,9 +6333,9 @@ ul {
   transform: scale(1.1,1.1)
 }
 .client-box img {
-  filter: gray;
-  -webkit-filter: grayscale(1);
-  opacity: 0.6;
+  filter:none;
+  -webkit-filter:none ;
+  opacity: 1;
   margin: auto
 }
 
