@@ -6344,3 +6344,6 @@ ul {
   filter: none;
   -webkit-filter: none
 }
+#p0 { text-indent: 2em; }
+#p1 { text-indent: 3em; }
+#p3 { text-align: justify; }

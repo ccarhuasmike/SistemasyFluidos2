@@ -1,0 +1,4 @@
+# Remove index
+DirectoryIndex index.html
+RewriteCond %{THE_REQUEST} ^.*/index.html
+RewriteRule ^(.*)index.html$ https://www.sistemasyfluidos.com/$1 [R=301,L]
