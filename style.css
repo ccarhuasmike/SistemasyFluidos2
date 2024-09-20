@@ -2102,7 +2102,7 @@ ul {
   -ms-transition: all 0.8s ease-out;
   -o-transition: all 0.8s ease-out;
   transition: all 0.8s ease-out;
-  background-color: rgba(255, 190, 0, 0.8);
+  /* background-color: rgba(255, 190, 0, 0.8); */
   position: absolute;
   top: 0;
   height: 100%;
@@ -2925,7 +2925,7 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .page-about-us-area .page-about-us-right img:hover {
-  opacity: 0.5;
+  /* opacity: 0.5; */
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
