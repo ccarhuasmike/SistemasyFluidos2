@@ -2109,14 +2109,21 @@ ul {
   height: 100%;
   width: 100%;
 }
-
-/* .services-2-top a img:hover {
+/* 
+.services-2-top a img:hover {
+  opacity: 0;
+  transform: scaleX(0);
+  -webkit-transition: all 0.8s ease-out;
+  -moz-transition: all 0.8s ease-out;
+  -ms-transition: all 0.8s ease-out;
+  -o-transition: all 0.8s ease-out;
+  transition: all 0.8s ease-out;
+  background-color: rgb(249 249 249 / 50%);
   opacity: 0.5;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  -ms-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
 } */
 
 .services-2-area .services-2-top .overlay a {
