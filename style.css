@@ -2102,12 +2102,23 @@ ul {
   -ms-transition: all 0.8s ease-out;
   -o-transition: all 0.8s ease-out;
   transition: all 0.8s ease-out;
-  /* background-color: rgba(255, 190, 0, 0.8); */
+  background-color: rgb(249 249 249 / 50%);
+  opacity: 0.5;
   position: absolute;
   top: 0;
   height: 100%;
   width: 100%;
 }
+
+/* .services-2-top a img:hover {
+  opacity: 0.5;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+} */
+
 .services-2-area .services-2-top .overlay a {
   position: absolute;
   bottom: 0;
@@ -2560,7 +2571,8 @@ ul {
   height: 100%;
   width: 100%;
   top: 0;
-  background-color: rgba(255, 190, 0, 0.5);
+  /* background-color: rgba(255, 190, 0, 0.5); */
+  background-color: rgb(249 249 249 / 50%);
   transform: scaleY(0);
   -ms-transform: scaleY(0);
   /* IE 9 */
@@ -2925,7 +2937,7 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .page-about-us-area .page-about-us-right img:hover {
-  /* opacity: 0.5; */
+  opacity: 0.5;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
