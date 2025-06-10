@@ -736,7 +736,7 @@ ul {
 .header-bennar-area {
   padding: 90px 0;
   position: relative;
-  background: url(img/header-banner2.jpg);
+  background: url(img/header-banner2.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -782,7 +782,7 @@ ul {
 1.7 Contact Banner Area styles  
 ---------------------------------------*/
 .contact-banner-area {
-  background: url(img/contactanos-equipo.png);
+  background: url(img/contactanos-equipo.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -2085,7 +2085,7 @@ ul {
 ---------------------------------------*/
 .services-2-area {
   padding-bottom: 70px;
-  background: url(img/services/services-2-background.jpg);
+  background: url(img/services/services-2-background.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2946,7 +2946,7 @@ ul {
 }
 .page-about-us-details-area {
   text-align: center;
-  background: url(img/about/degradado-background.jpg);
+  background: url(img/about/degradado-background.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -3114,7 +3114,7 @@ ul {
 6.1 Featured 1 Area styles  
 ---------------------------------------*/
 .featured-area {
-  background: url(img/featured/background.jpg);
+  background: url(img/featured/background.webp);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -3295,7 +3295,7 @@ ul {
 ---------------------------------------*/
 .featured-2-area {
   position: relative;
-  background: url(img/featured/featured-2-background.jpg);
+  background: url(img/featured/featured-2-background.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -3476,7 +3476,7 @@ ul {
 6.3 Featured 3 Area styles  
 ---------------------------------------*/
 .featured-3-area {
-  background: url(img/featured/featured-3-background.jpg);
+  background: url(img/featured/featured-3-background.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -3813,7 +3813,7 @@ ul {
 7.3 Clients 3 Area styles   
 ---------------------------------------*/
 .clients-3-area {
-  background: url(img/clients/clients-3-background.jpg);
+  background: url(img/clients/clients-3-background.webp);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -4296,7 +4296,7 @@ ul {
 9.1 Video 1 Area styles  
 ---------------------------------------*/
 .video-area {
-  background: url(img/video/background.jpg) no-repeat;
+  background: url(img/video/background.webp) no-repeat;
   background-size: cover;
   text-align: center;
   position: relative;
@@ -4345,7 +4345,7 @@ ul {
 9.2 Video 2 Area styles   
 ---------------------------------------*/
 .video-4-area {
-  background: url(img/video/video-4-background.jpg) no-repeat;
+  background: url(img/video/video-4-background.webp) no-repeat;
   background-size: cover;
   text-align: center;
   position: relative;
@@ -5531,7 +5531,7 @@ ul {
 13.3 Why Choose Us Area styles  
 ---------------------------------------*/
 .why-choose-us-area {
-  background: url(img/why-choose-us-background.jpg);
+  background: url(img/why-choose-us-background.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
